@@ -1,0 +1,2 @@
+# IGP_YEARLY_SENTIMENT_VISUALS
+ For Jupyter Notebook
